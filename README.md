@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Game Developer</h2>
 
-- <b>Projects in Unreal Engine</b>
-  - [Praciting DS & Algos in Python](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io)
+- <b>Game Projects</b>
+  - [Projects in Unreal Engine](https://github.com/MichaelMcCardell/MichaelMcCardell.github.io)
 
 <h2> 🤳 Connect with me:</h2>
 [youtube]: https://www.youtube.com/channel/UCa9EKmvJXg4BZbcPRzUDkvg
